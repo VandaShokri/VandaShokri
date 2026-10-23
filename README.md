@@ -12,9 +12,9 @@
 <br/>
 
 ### 👨‍💻 System Status
-- 🔭 **Current Focus:** Software development for embedded systems, microcontrollers, and robotic kinematics[cite: 7].
-- 🌱 **Academic Standing:** B.Sc. in Computer Engineering (English Track) at Politecnico di Torino (111/180 CFU, 26.43/30 Average)[cite: 7]. 
-- ⚡ **Recent Milestone:** Achieved 30/30 in Algorithms & Data Structures and 27/30 in Digital Electronics Design[cite: 7].
+- 🔭 **Current Focus:** Software development for embedded systems, microcontrollers, and robotic kinematics.
+- 🌱 **Academic Standing:** B.Sc. in Computer Engineering (English Track) at Politecnico di Torino (111/180 CFU, 26.43/30 Average). 
+- ⚡ **Recent Milestone:** Achieved 30/30 in Algorithms & Data Structures and 27/30 in Digital Electronics Design.
 
 <br/>
 
@@ -67,6 +67,6 @@
 
 | 🛰️ Osiris: Orbital Debris Removal | 🔌 IoT Telemetry (ESP32) | ⚡ Digital Electronics Design |
 | :--- | :--- | :--- |
-| **ROS 2 & Hardware Integration**<br>Engineered the `robot_logic` Python package to link high-level manipulator kinematics with low-level STM32 hardware actuators, and authored the subsystem ICD[cite: 7]. | **C/C++ Embedded Firmware**<br>Engineered modular firmware utilizing I2C OLEDs, touch sensors, and hardware watchdogs, driven by an asynchronous Telegram bot for remote Wi-Fi telemetry[cite: 7]. | **Verilog HDL & RTL Synthesis**<br>Designed, simulated, and verified sequential logic circuits using Verilog, implementing custom Finite State Machines (FSMs) and datapath logic architectures[cite: 7]. |
+| **ROS 2 & Hardware Integration**<br>Engineered the `robot_logic` Python package to link high-level manipulator kinematics with low-level STM32 hardware actuators, and authored the subsystem ICD. | **C/C++ Embedded Firmware**<br>Engineered modular firmware utilizing I2C OLEDs, touch sensors, and hardware watchdogs, driven by an asynchronous Telegram bot for remote Wi-Fi telemetry. | **Verilog HDL & RTL Synthesis**<br>Designed, simulated, and verified sequential logic circuits using Verilog, implementing custom Finite State Machines (FSMs) and datapath logic architectures. |
 
-> *Note: I also developed a normalized SQL backend and interactive Streamlit GUI for live system data visualization[cite: 7]. Ask me about it!*
+> *Note: I also developed a normalized SQL backend and interactive Streamlit GUI for live system data visualization. Ask me about it!*
