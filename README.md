@@ -1,21 +1,16 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&multiline=true&width=800&height=120&lines=🚀+Hi,+I'm+Vanda+Shokri;⚡+Computer+Engineering+Undergrad+@+PoliTO;🔥+Embedded+Hardware+|+ROS+2+|+Avionics;🛰️+Bridging+High-Level+Logic+With+Hardware" alt="Neon Terminal Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&multiline=true&width=800&height=180&lines=🚀+Hi,+I'm+Vanda+Shokri;⚡+Computer+Engineering+Undergrad+@+PoliTO;🔥+Embedded+Hardware+|+ROS+2+|+Avionics;🛰️+Bridging+High-Level+Logic+With+Hardware" alt="Neon Terminal Header" />
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/vanda-shokri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:vandashokri24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <h3>👨‍💻 System Status & Academic Milestones</h3>
-  <p><b>B.Sc. Computer Engineering (English Track) • Politecnico di Torino</b><br>
-  <i>111/180 CFU • 26.43/30 Weighted Average</i></p>
-  <img src="https://img.shields.io/badge/Algorithms_&_Data_Structures-30%2F30-00E676?style=flat-square" alt="30/30"/>
-  <img src="https://img.shields.io/badge/Digital_Electronics_Design-27%2F30-00E676?style=flat-square" alt="27/30"/>
-  <img src="https://img.shields.io/badge/Programming_Techniques-27%2F30-00E676?style=flat-square" alt="27/30"/>
+  <h3>👨‍💻 System Status</h3>
+  <p><b>B.Sc. Computer Engineering • Politecnico di Torino</b></p>
 </div>
 
 <br/>
