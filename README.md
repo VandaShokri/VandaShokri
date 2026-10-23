@@ -55,11 +55,3 @@
     <td><b>Verilog HDL & RTL Synthesis</b><br>Designed, simulated, and verified sequential logic circuits using Verilog, implementing custom Finite State Machines (FSMs) and datapath logic architectures.</td>
   </tr>
 </table>
-
-<br/>
-
-<div align="center">
-  <h3>📊 GitHub Activity</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=VandaShokri&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VandaShokri&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
